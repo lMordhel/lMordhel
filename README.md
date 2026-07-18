@@ -9,7 +9,7 @@
 
 ## 🧠 ¿Quién soy?
 
-🎓 Estudiante de **Ingeniería de Sistemas (8.º ciclo)** en la **Universidad Tecnológica del Perú (UTP)**.  
+🎓 Estudiante de **Ingeniería de Sistemas (9.º ciclo)** en la **Universidad Tecnológica del Perú (UTP)**.  
 💻 **Desarrollador backend en formación**, enfocado en **Python** y **FastAPI**, con interés real en cómo se diseñan, estructuran y escalan los sistemas.
 
 No me conformo con que el código funcione: me importa que sea **claro, mantenible y bien pensado**.
